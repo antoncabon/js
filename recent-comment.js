@@ -1,4 +1,3 @@
-
 function commentswidget(e) {
     var t;
     t = '<ul class="commentswidget">';
