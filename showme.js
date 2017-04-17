@@ -1,3 +1,4 @@
+<script type="text/javascript">
 var currentURL=location.href;
 var str = currentURL;
 var res = str.replace("http://blog.antoncabon.us/p/convert.html?id=", "");
@@ -7,3 +8,4 @@ function changeLink(){
     window.open(decodedString,'_self');
     
 }
+</script>
